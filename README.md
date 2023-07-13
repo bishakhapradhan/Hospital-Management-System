@@ -1,2 +1,2 @@
-# Hospital-Management-System
+# Hospital-Appointment-System
 Using Laravel Framework
